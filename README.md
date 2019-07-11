@@ -1,2 +1,2 @@
-# fonts
-Simplistic fonts
+# Fonts
+A bunch of simplistic fonts.
